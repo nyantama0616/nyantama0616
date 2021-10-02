@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyantama0616&show_icons=true&theme=tokyonight) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyantama0616&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyantama0616&layout=compact&theme=nord&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
