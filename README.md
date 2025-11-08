@@ -2,7 +2,7 @@
 
 I am a full-stack engineer.
 
-## Skills
+## Core Technologies
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react,vite,next,tailwind)](https://skillicons.dev)
 
